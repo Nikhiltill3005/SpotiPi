@@ -1,6 +1,7 @@
 # SpotiPi
  
-Displays currently playing Spotify album art on an RGB LED matrix panel, powered by a Raspberry Pi.
+Displays currently playing Spotify album art on an RGB LED matrix panel, powered by a Raspberry Pi Zero W.
+This program was done through SSH and taught me a lot about working with headless setups, API's and setting up virtual environments.
  
 ## How it works
  
