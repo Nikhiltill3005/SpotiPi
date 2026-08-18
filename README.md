@@ -11,5 +11,5 @@ Displays currently playing Spotify album art on an RGB LED matrix panel, powered
  
 | | |
 |---|---|
-| ![Photo 1](Spotipi/SpotiPi2.png) | ![Photo 2](Spotipi/Spotipi.jpg) |
+| ![Photo 1](SpotiPi/SpotiPi2.png) | ![Photo 2](SpotiPi/Spotipi.jpg) |
  
